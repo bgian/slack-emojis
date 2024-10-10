@@ -1,7 +1,7 @@
 # Slack Emojis
-A system of Slack emojis, used for sharing progress updates and reacting to posts.
-
 <img width="1897" alt="preview" src="https://github.com/user-attachments/assets/e6fe3ea6-5922-4cbc-8124-71f376cb869e">
+
+A system of Slack emojis, used for sharing progress updates and reacting to posts.
 
 ## Usage
 - `:todo:` for an upcoming focus
