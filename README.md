@@ -14,6 +14,6 @@ A system of Slack emojis, used for sharing progress updates and reacting to post
 - `:aligned-intensified:` when you're super aligned
 
 ## Credits
-- Designed by [Bobby Giangeruso]([url](https://x.com/_bgian))
-- `:Aligned:` symbol by [Ben Pasternak]([url](https://x.com/pasternak))
-- System by [Jean-Charles Samuelian-Werve]([url](https://x.com/jcsamuelian)) and [Charles Gorintin]([url](https://x.com/Gorintic))
+- Designed by [Bobby Giangeruso](https://x.com/_bgian)
+- `:Aligned:` symbol by [Ben Pasternak](https://x.com/pasternak)
+- System by [Jean-Charles Samuelian-Werve](https://x.com/jcsamuelian) and [Charles Gorintin](https://x.com/Gorintic)
