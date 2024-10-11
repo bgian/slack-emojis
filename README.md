@@ -4,14 +4,14 @@
 A system of Slack emojis, used for sharing progress updates and reacting to posts.
 
 ## Usage
-- `:todo:` for an upcoming focus
-- `:in-progress:` for an active focus
-- `:done:` for a completed focus
-- `:paused:` for a paused focus
-- `:canceled:` for a canceled focus
-- `:ongoing:` when no foreseeable done state, ongoing focus
-- `:aligned:` when you're aligned with a decision
-- `:aligned-intensified:` when you're super aligned
+- `:todo:` upcoming focus or reading post later
+- `:in-progress:` active focus
+- `:done:` completed focus or read post
+- `:paused:` paused focus
+- `:canceled:` canceled focus
+- `:ongoing:` ongoing focus, no foreseeable done state
+- `:aligned:` aligned with a decision
+- `:aligned-intensified:` super aligned with a decision
 
 ## Credits
 - Designed by [Bobby Giangeruso](https://x.com/_bgian)
