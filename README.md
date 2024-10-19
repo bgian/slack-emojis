@@ -1,11 +1,10 @@
 # Slack Emojis
 <img width="1897" alt="preview" src="https://github.com/user-attachments/assets/e6fe3ea6-5922-4cbc-8124-71f376cb869e">
 
-
 A system of Slack emojis, used for sharing progress updates and reacting to posts.
 
 ## Usage
-Appears in the Slack of Figma, Vercel, Campsite, and friends.
+Appears in the Slack of Heart Hands, Figma, Vercel, Campsite, Dust, and friends.
 - `:todo:` upcoming focus or reading post later
 - `:in-progress:` active focus
 - `:done:` completed focus or read post
